@@ -192,8 +192,8 @@ it whenever you like.
 - Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application 
   running.
 
-
-https://htmlpreview.github.io/?http://localhost:8000/
+https://htmlpreview.github.io/?https://zhaoyanjie001.github.io/PhoneCat/
+https://htmlpreview.github.io/?
 
 ### Unit Testing
 
