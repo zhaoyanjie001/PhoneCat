@@ -192,6 +192,9 @@ it whenever you like.
 - Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application 
   running.
 
+
+https://htmlpreview.github.io/?http://localhost:8000/
+
 ### Unit Testing
 
 We recommend using [Jasmine][jasmine] and [Karma][karma] for your unit tests/specs, but you are free
